@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: masonry-posts\n"
+"POT-Creation-Date: 2014-12-17 16:49+0100\n"
+"PO-Revision-Date: 2014-12-18 17:53+0100\n"
+"Last-Translator: Mirosław Toton <mirtoto@gmail.com>\n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: __;_e;gettext;gettext_noop\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: includes\n"
+
+#: includes/class-masonry-posts-settings.php:51
+msgid "Default settings restored."
+msgstr ""
+
+#: includes/class-masonry-posts-settings.php:58
+msgid "Posts options"
+msgstr ""
+
+#: includes/class-masonry-posts-settings.php:62
+msgid "Blog pages show at most"
+msgstr ""
+
+#: includes/class-masonry-posts-settings.php:63
+msgid "posts"
+msgstr ""
+
+#: includes/class-masonry-posts-settings.php:72
+msgid "Thumbnail width"
+msgstr ""
+
+#: includes/class-masonry-posts-settings.php:73
+msgid "px"
+msgstr ""
+
+#: includes/class-masonry-posts-settings.php:82
+msgid "Infinite scroll"
+msgstr ""
+
+#: includes/class-masonry-posts-settings.php:83
+msgid "Enable infinite scroll"
+msgstr ""
+
+#: includes/class-masonry-posts-settings.php:89
+msgid "Change automatic infinite scroll to manual after"
+msgstr ""
+
+#: includes/class-masonry-posts-settings.php:90
+msgid "scrolls <em>(value 0 disable this behaviour)</em>"
+msgstr ""
+
+#: includes/class-masonry-posts-settings.php:215
+#: includes/class-masonry-posts-settings.php:216
+msgid "Masonry Posts"
+msgstr ""
+
+#: includes/class-masonry-posts-settings.php:229
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: includes/class-masonry-posts-settings.php:235
+msgid "Masonry Posts Settings"
+msgstr ""
+
+#: includes/class-masonry-posts-settings.php:238
+#: includes/class-masonry-posts-settings.php:278
+msgid "Settings"
+msgstr ""
+
+#: includes/class-masonry-posts-settings.php:240
+msgid "Shortcodes made available by this plugin"
+msgstr ""
+
+#: includes/class-masonry-posts-settings.php:242
+msgid " - available parameters:"
+msgstr ""
+
+#: includes/class-masonry-posts-settings.php:244
+msgid " - category names (slugs) separated by comma; live empty for all categories,"
+msgstr ""
+
+#: includes/class-masonry-posts-settings.php:245
+msgid " - post types; by default: \"post\","
+msgstr ""
+
+#: includes/class-masonry-posts-settings.php:246
+msgid " - sort retrieved posts by parameter; by default: \"date\","
+msgstr ""
+
+#: includes/class-masonry-posts-settings.php:247
+msgid " - ascending or descending order; by default: \"DESC\"."
+msgstr ""
+
+#: includes/class-masonry-posts-settings.php:260
+msgid "Save Changes"
+msgstr ""
+
+#: includes/class-masonry-posts-settings.php:261
+msgid "Restore defaults"
+msgstr ""
+
+#: includes/class-masonry-posts-settings.php:297
+#: includes/class-masonry-posts-settings.php:302
+#: includes/class-masonry-posts.php:94 includes/class-masonry-posts.php:99
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/class-masonry-posts.php:74
+msgid "<em>No more pages.</em>"
+msgstr "<em>Brak większej ilości wpisów.</em>"
+
+#: includes/class-masonry-posts.php:75
+msgid "<span>Load more posts</span>"
+msgstr "<span>Zobacz więcej wpisów</span>"
+
+#: includes/view-masonry-posts.php:40
+#, php-format
+msgid "Permalink to %s"
+msgstr "Bezpośredni odnośnik do &#8222;%s&#8221;"
